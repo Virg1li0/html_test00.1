@@ -1,0 +1,32 @@
+*{
+    padding: 1;
+    box-sizing: 1;
+    margin: initial;
+    font-size: 28px;
+    background-color:        rgb(126, 126, 126);
+}
+
+h2{
+    font-size: 40px;
+    font-style: italic;
+    background-color: rgba(233, 3, 3, 0.199);
+}
+
+span{
+    font-size: 25px;
+    font-family: 'Comforter', cursive;
+    font-style: bold;
+}
+
+.a{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b{
+    font-size: 30px;
+}
+
+.c{
+    background-color: burlywood;
+}
